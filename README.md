@@ -35,12 +35,6 @@ I come from an **Aviation Management** background and discovered a passion for p
 
 ---
 
-### 📊 GitHub Stats
-
-![Aiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aiman-Creates&show_icons=true&theme=dark&hide_border=true&bg_color=07070f&title_color=f5c842&icon_color=00e5c8&text_color=f0f0fa)
-
----
-
 ### 🌍 About Me
 
 - 📍 Based in **Saudi Arabia**
